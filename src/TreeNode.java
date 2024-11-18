@@ -69,6 +69,5 @@ public class TreeNode<E extends Comparable<E>> {
     }
 
 
-    public int compareTo(E val) {
-        return value.compareTo(val); }
+    public int compareTo(E val) { return value.compareTo(val); }
 }
