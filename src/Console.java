@@ -1,12 +1,6 @@
-import jdk.jshell.spi.ExecutionControl;
-
-import javax.annotation.processing.SupportedSourceVersion;
-import javax.swing.text.html.Option;
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.io.IOError;
 import java.util.NoSuchElementException;
-import java.util.Optional;
 import java.util.Scanner;
 
 public class Console {
